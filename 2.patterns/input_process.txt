@@ -1,0 +1,4 @@
+# TEST CASES 
+2 - 2 time printing - programming tunning on two test cases
+3 - 1st printing 3 star row
+5 - 2nd printing 5 star ros
